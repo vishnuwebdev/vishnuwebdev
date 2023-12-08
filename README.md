@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishnuwebdev
-- 👀 I’m interested in React Native, PHP 
-- 🌱 I’m currently learning Android Development.
+- 👀 I’m interested in React Native, Next Js, React Js 
 - 💞️ I’m looking to collaborate on APP Development & Web Development.
 - 📫 How to reach me drop email on vishisone@yahoo.com.au
 
